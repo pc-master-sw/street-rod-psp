@@ -1,0 +1,7 @@
+{
+  "street-rod-sdl3": {
+    "url": "https://github.com/kylofon/street-rod-sdl3.git",
+    "commit": "0e5598e4fb45735b7c611a41b3595c91f16c3fa8",
+    "use": "external MIT Street Rod C engine"
+  }
+}
